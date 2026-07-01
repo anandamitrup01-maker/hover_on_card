@@ -1,8 +1,8 @@
-🃏 Pokémon Cards UI
+## 🃏 Pokémon Cards UI
 
 A simple and interactive **Pokémon Cards** layout built using **HTML** and **CSS**. The project displays a stack of Pokémon-themed cards with a layered design, where hovering over a card brings it to the front using CSS `z-index`.
 
- ✨ Features
+ ## ✨ Features
 
 - 🃏 Layered card stack design
 - 🖼️ High-quality Pokémon images
@@ -10,14 +10,14 @@ A simple and interactive **Pokémon Cards** layout built using **HTML** and **CS
 - 🎨 Pure HTML & CSS (No JavaScript)
 - 📱 Clean and responsive layout
 
- 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
 
 
 
-🎮 How It Works
+## 🎮 How It Works
 
 - Four Pokémon cards are stacked using `position: absolute`.
 - Each card is rotated slightly to create a fan-like appearance.
