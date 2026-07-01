@@ -27,4 +27,6 @@ A simple and interactive **Pokémon Cards** layout built using **HTML** and **CS
 
 🔗 HTML Code: https://github.com/anandamitrup01-maker/hover_on_card/blob/main/index.html
 
+🔗 CSS Code: https://github.com/anandamitrup01-maker/hover_on_card/blob/main/kuku.css
+
 🌐 Live: https://anandamitrup01-maker.github.io/hover_on_card/
